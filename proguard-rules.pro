@@ -1,0 +1,2 @@
+-keep class com.securegallery.app.** { *; }
+-keepclassmembers class * { @android.webkit.JavascriptInterface <methods>; }
